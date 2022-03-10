@@ -1,3 +1,4 @@
 Hello Again
 Still trying to get VSCode to show a merge conflict
 An even bigger change
+3rd line attempt
